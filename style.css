@@ -1,5 +1,4 @@
 /* Google Fonts - Poppins */
-/* Google Fonts - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 *{
@@ -14,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to right,#42275a,#734b6d);
+    background-color: #4070f4;
     column-gap: 30px;
 }
 .form{
@@ -23,7 +22,7 @@
     width: 100%;
     padding: 30px;
     border-radius: 6px;
-    background: transparent;
+    background: #FFF;
 }
 .form.signup{
     opacity: 0;
